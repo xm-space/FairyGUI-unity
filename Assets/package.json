@@ -1,0 +1,17 @@
+{
+  "name": "com.fairygui.fairygui-unity",
+  "displayName": "FairyGUI",
+  "author": {
+    "name": "fairygui",
+    "url": "https://www.fairygui.com/"
+  },
+  "version": "5.2.0",
+  "unity": "2018.4",
+  "description": "A flexible UI framework for Unity.",
+  "keywords": [
+    "FairyGUI "
+  ],
+  "license": "MIT",
+  "documentationUrl": "https://www.fairygui.com/",
+  "changelogUrl": "https://www.fairygui.com/release/editor"
+}
