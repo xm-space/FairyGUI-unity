@@ -5,7 +5,11 @@
 
 该项目Fork至https://github.com/fairygui/FairyGUI-unity
 
-使用UPM安装：https://github.com/xm-space/FairyGUI-unity.git?path=Assets
+使用UPM安装：
+
+​	https://github.com/xm-space/FairyGUI-unity.git?path=Assets
+
+​	https://gitee.com/codewsl/fairygui-unity.git?path=Assets
 
 
 
