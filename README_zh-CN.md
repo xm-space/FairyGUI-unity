@@ -1,8 +1,18 @@
  FairyGUI for Unity
 ====
 
+
+
+该项目Fork至https://github.com/fairygui/FairyGUI-unity
+
+使用UPM安装：https://github.com/xm-space/FairyGUI-unity.git?path=Assets
+
+
+
 FairyGUI是一个适用于许多游戏引擎的UI中间件。<br>
 [下载编辑器](https://www.fairygui.com/product.html)  
+
+
 
 在运行效率方面，FairyGUI对DrawCall优化使用了特有的`FairyBatching`技术，相比NGUI、UGUI的传统优化技术更加高效而且容易控制，特别是对动静耦合越来越复杂的UI设计更是应付自如。<br>
 
